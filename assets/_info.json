@@ -1,0 +1,17 @@
+{
+    "name": "leap",
+    "version": "0.1.0",
+    "description": "Use C-like goto statements in Python",
+    "author": "Jeremiah Ikosin <@ziord>",
+    "long-desc": "Package for supporting goto constructs in Python functions",
+    "keywords": "python goto function",
+    "license": "MIT",
+    "project_urls": {
+        "Documentation": "https://github.com/ziord/leap/blob/master/README.md",
+        "Source Code": "https://github.com/ziord/leap"
+    },
+    "package_data": {
+        "license": "LICENSE.txt",
+        "readme": "README.md"
+    }
+}

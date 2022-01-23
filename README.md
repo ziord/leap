@@ -151,7 +151,6 @@ To run the tests, simply cd to the `Leap` directory, and do:
 
 ### Limitations
 Only functions/methods are supported (may be easily inferable from the decorator syntax).
-
 Nested functions/methods are not supported, that is, labels cannot be declared in external or enclosing functions and referenced in another function be it inner or enclosing.
 
 

@@ -165,4 +165,4 @@ Please [file an issue](https://github.com/ziord/leap/issues).
 
 
 ### License
-[MIT](https://github.com/ziord/leap/blob/master/LICENSE)
+[MIT](https://github.com/ziord/leap/blob/master/LICENSE.txt)
